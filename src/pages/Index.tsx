@@ -45,7 +45,7 @@ const Index = () => {
 
         {/* WhatsApp CTA */}
         <a
-          href="https://wa.me/34600000000"
+          href="https://wa.me/34684707089"
           target="_blank"
           rel="noopener noreferrer"
           className="animate-fade-up-delay-3 mt-10 inline-flex items-center gap-3 bg-accent text-accent-foreground font-semibold text-lg px-8 py-4 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-accent/25"
