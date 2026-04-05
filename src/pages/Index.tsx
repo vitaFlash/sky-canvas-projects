@@ -1,7 +1,7 @@
 import { MessageCircle } from "lucide-react";
 
 const tags = [
-  "Inmobiliaria", "Eventos", "Bodas", "Hoteles", "Turismo", "Publicidad",
+  "Inmobiliaria", "Eventos", "Hoteles", "Turismo", "Publicidad",
   "Redes Sociales", "Construcción", "Inspecciones", "Vídeo Cinemático", "FPV Drone", "Promoción",
 ];
 
